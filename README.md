@@ -10,7 +10,7 @@ Bu repozitoriyada [Wes Bos](https://javascript30.com/) tomonidan yaratilgan **Ja
 
 | #  | Loyiha nomi            | Papka | Demo |
 |----|------------------------|--------|------|
-| 01 | Drum Kit               | [`01-drum-kit`](./01-drum-kit) | [Live](https://drum-kit-project-name.netlify.app) |
+| 01 | Drum Kit               | [`01-drum-kit`](./01-drum-kit) | [Live](https://challenge-js30-drum-kit.netlify.app/) |
 | 02 | *Coming soon...*       | -      | -    |
 | ...| ...                    | ...    | ...  |
 
