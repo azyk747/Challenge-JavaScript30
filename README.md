@@ -21,5 +21,5 @@ Bu repozitoriyada [Wes Bos](https://javascript30.com/) tomonidan yaratilgan **Ja
 ## ⚙️ Foydalanish
 
 ```bash
-git clone https://github.com/sening-username/javascript30.git
+git clone https://github.com/azyk747/javascript30.git
 cd javascript30
