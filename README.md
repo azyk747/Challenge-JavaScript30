@@ -14,7 +14,8 @@ Bu repozitoriyada [Wes Bos](https://javascript30.com/) tomonidan yaratilgan **Ja
 | 01 | Drum Kit               | [Live](https://challenge-js30-drum-kit.netlify.app/) |
 | 02 | Clock     | [Live](https://javascript30-02-clock.netlify.app/)   |
 | ...| ...                    | ...    |
->>>>>>> 08fa12a665599aa9714588cd9cf74fcdda6cf874
+| ...| ...                    | ...    |
+| ...| ...                    | ...    |
 
 > Har bir loyiha alohida papkada joylashgan. Fayllarni lokalda browser orqali ochib yoki Netlify orqali ko‘rish mumkin.
 
