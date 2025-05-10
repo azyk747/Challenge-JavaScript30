@@ -11,7 +11,7 @@ Bu repozitoriyada [Wes Bos](https://javascript30.com/) tomonidan yaratilgan **Ja
 | #  | Loyiha nomi            | Papka | Demo |
 |----|------------------------|--------|------|
 | 01 | Drum Kit               | [`01-drum-kit`](./01-drum-kit) | [Live](https://challenge-js30-drum-kit.netlify.app/) |
-| 02 | *Coming soon...*       | -      | -    |
+| 02 | Clock       | -      | -    |
 | ...| ...                    | ...    | ...  |
 
 > Har bir loyiha alohida papkada joylashgan. Fayllarni lokalda browser orqali ochib yoki Netlify orqali ko‘rish mumkin.
