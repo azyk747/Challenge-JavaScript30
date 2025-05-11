@@ -18,11 +18,3 @@ Bu repozitoriyada [Wes Bos](https://javascript30.com/) tomonidan yaratilgan **Ja
 | ...| ...                    | ...    |
 
 > Har bir loyiha alohida papkada joylashgan. Fayllarni lokalda browser orqali ochib yoki Netlify orqali ko‘rish mumkin.
-
----
-
-## ⚙️ Foydalanish
-
-```bash
-git clone https://github.com/azyk747/javascript30.git
-cd javascript30
