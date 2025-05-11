@@ -79,22 +79,15 @@
     </style>
 
     <script>
-      // let spacing = document.querySelector("#spacing")
-      // let blurr = document.querySelector("#blur")
-      // let base = document.querySelector("#base")
-      // let r = document.documentElement
-      
+      let inputs = document.querySelectorAll("input")
 
-      // function setRoot(prop, val, suffix) {
-        
-      //   r.style.setProperty(prop, val + suffix);
-      //   console.log(prop);
-      //   console.log(val);
-      // }
+      function handlUpdate() {
+        let suffix = this.dataset.sizing || ''
+        document.documentElement.style.setProperty(`--${this.name}`, this.value + suffix)
+      }
 
-      // spacing.addEventListener('change', (e) => setRoot('--spacing', e.target.value, 'px'))
-      // base.addEventListener('change', (e) => setRoot('--base', e.target.value, ''))
-      // blurr.addEventListener('change', (e) => setRoot('--blur', e.target.value, 'px'))
+      inputs.forEach(input => input.addEventListener("change", handlUpdate))
+      inputs.forEach(input => input.addEventListener("mousemove", handlUpdate))
     </script>
   </body>
 </html>
