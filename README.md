@@ -11,9 +11,9 @@ Bu repozitoriyada [Wes Bos](https://javascript30.com/) tomonidan yaratilgan **Ja
 =======
 | #  | Loyiha nomi            | Demo |
 |----|------------------------|--------|
-| 01 | Drum Kit               | [Live](https://challenge-js30-drum-kit.netlify.app/) |
-| 02 | Clock     | [Live](https://javascript30-02-clock.netlify.app/)   |
-| ...| ...                    | ...    |
+| 01 | Drum Kit               | [Live](https://javascript30-01-drum-kit.netlify.app/) |
+| 02 | Clock                  | [Live](https://javascript30-02-clock.netlify.app/) |
+| 03 | Css Variables          | [Live](https://javascript30-03-css-variables.netlify.app/) |
 | ...| ...                    | ...    |
 | ...| ...                    | ...    |
 
