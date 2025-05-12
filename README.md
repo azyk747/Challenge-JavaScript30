@@ -14,6 +14,7 @@ Bu repozitoriyada [Wes Bos](https://javascript30.com/) tomonidan yaratilgan **Ja
 | 01 | Drum Kit               | [Live](https://azyk747.github.io/challenge-javascript30/01-drum-kit) |
 | 02 | Clock                  | [Live](https://azyk747.github.io/challenge-javascript30/02-clock/) |
 | 03 | Css Variables          | [Live](https://azyk747.github.io/challenge-javascript30/03-css-variables/) |
+| 04 | Array Cardio           | [Live](https://azyk747.github.io/challenge-javascript30/04-array-cardio/) |
 | ...| ...                    | ...    |
 | ...| ...                    | ...    |
 
