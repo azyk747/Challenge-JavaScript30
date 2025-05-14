@@ -16,6 +16,7 @@ Bu repozitoriyada [Wes Bos](https://javascript30.com/) tomonidan yaratilgan **Ja
 | 03 | Css Variables          | [Live](https://azyk747.github.io/challenge-javascript30/03-css-variables/) |
 | 04 | Array Cardio           | [Live](https://azyk747.github.io/challenge-javascript30/04-array-cardio/) |
 | 05 | Flex Panel Galery      | [Live](https://azyk747.github.io/challenge-javascript30/05-flex-panel-galery/) |
+| 05 | Flex Panel Galery      | [Live](https://azyk747.github.io/challenge-javascript30/06-ajax-type-ahead/) |
 | ...| ...                    | ...    |
 | ...| ...                    | ...    |
 
