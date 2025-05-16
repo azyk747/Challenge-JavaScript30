@@ -17,6 +17,7 @@ Bu repozitoriyada [Wes Bos](https://javascript30.com/) tomonidan yaratilgan **Ja
 | 05 | Flex Panel Galery      | [Live](https://azyk747.github.io/challenge-javascript30/05-flex-panel-galery/) |
 | 06 | Ajax Type Ahead        | [Live](https://azyk747.github.io/challenge-javascript30/06-ajax-type-ahead/) |
 | 07 | Array Cardio 2         | [Live](https://azyk747.github.io/challenge-javascript30/07-array-cardio2/) |
+| 08 | HTML5 Canvas           | [Live](https://azyk747.github.io/challenge-javascript30/08-html5-canvas/) |
 | ...| ...                    | ...    |
 | ...| ...                    | ...    |
 
